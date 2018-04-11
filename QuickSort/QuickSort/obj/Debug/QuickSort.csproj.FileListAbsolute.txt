@@ -1,0 +1,7 @@
+D:\AM32\PRO2\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+D:\AM32\PRO2\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+D:\AM32\PRO2\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+D:\AM32\PRO2\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+D:\AM32\PRO2\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+D:\AM32\PRO2\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+D:\AM32\PRO2\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
